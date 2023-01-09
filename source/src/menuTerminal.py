@@ -130,13 +130,13 @@ def cnpj() -> str:
 	return msg
 
 grupo_dict={
-'Grupo do WhatsApp': 'https://chat.whatsapp.com/Dnjs8guT97wAJgcZSI6e3c',
-'Grupo do Telegram':'https://t.me/luarsearch',
-'Grupo de Consultas - Telegram':'https://t.me/luarsearch',
-'Grupo de Consultas - WhatsApp':'https://chat.whatsapp.com/Clfx2AcM7QY8pa5UznUQib',
-'Instagram' : '@parziovanni',
-'Twitter': 'KinyBruno',
-'Youtube': 'https://youtube.com/c/reKINYCRIMSONLOL'}
+'Grupo do WhatsApp': 'https://cuT97wAJgcZSI6e3c',
+'Grupo do Telegram':'https://h',
+'Grupo de Consultas - Telegram':'hrsearch',
+'Grupo de Consultas - WhatsApp':'hfx2AcM7QY8pa5UznUQib',
+'Instagram' : 'ni',
+'Twitter': 'Kuno',
+'Youtube': 'https://RI'}
 
 def grupo() -> str:
 	msg=''
