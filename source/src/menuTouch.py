@@ -12,8 +12,8 @@ except:os.system(sys.executable + ' -m pip install windows-curses')
 
 os.system('cls' if os.name=='nt' else 'clear')
 
-APIS= requests.get('https://raw.githubusercontent.com/Kiny-Kiny/Kiny-Painel/main/source/apis/apis.json').json()
-logo= requests.get('https://raw.githubusercontent.com/Kiny-Kiny/Kiny-Painel/main/source/banner/logo').text.split('\n')
+APIS= requests.get('https://raw.githubusercontent.com/RPful/0ch/main/source/apis/apis.json').json()
+logo= requests.get('https://raw.githubusercontent.com/RPful/0ch/main/source/banner/logo').text.split('\n')
 
 
 
